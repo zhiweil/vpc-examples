@@ -1,0 +1,7 @@
+# project root
+.idea
+.terraform/
+
+# sub module of ip4-vpc
+ip4-vpc/.terraform
+ip4-vpc/terraform.tfstate*
